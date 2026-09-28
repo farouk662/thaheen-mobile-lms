@@ -5,6 +5,9 @@
 An offline, Arabic-first mobile learning application built with Flutter and BLoC (Cubit).
 Health-sciences students can browse courses, track their learning progress, and watch recorded video lessons — with no network connection required.
 
+> 📱 **Pre-built APK**: [Download on Google Drive](https://drive.google.com/file/d/1cllAjIE4Sy5w8SLN4xsEAetK765ua4rV/view?usp=drive_link)  
+> 🎥 **Video Walkthrough**: [Watch 2-3 min Demo](https://drive.google.com/file/d/1pZGHc4MPnk4BR0qaKh1UVkCW3S9Yz5xC/view?usp=drive_link)
+
 ---
 
 ## App Previews
