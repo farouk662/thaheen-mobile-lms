@@ -1,0 +1,108 @@
+{
+  "courses": [
+    {
+      "id": "anatomy-101",
+      "title": "مقدمة في التشريح",
+      "titleEn": "Introduction to Anatomy",
+      "instructor": "د. سارة",
+      "instructorEn": "Dr. Sarah",
+      "thumbnail": "assets/images/anatomy.png",
+      "sections": [
+        {
+          "id": "s1",
+          "title": "الجهاز الهيكلي",
+          "titleEn": "Skeletal System",
+          "lessons": [
+            {
+              "id": "l1",
+              "title": "العظام",
+              "titleEn": "Bones",
+              "durationSec": 14,
+              "video": "assets/videos/lesson1.mp4"
+            },
+            {
+              "id": "l2",
+              "title": "المفاصل والغضاريف",
+              "titleEn": "Joints & Cartilage",
+              "durationSec": 44,
+              "video": "assets/videos/lesson2.mp4"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "الجهاز العضلي",
+          "titleEn": "Muscular System",
+          "lessons": [
+            {
+              "id": "l3",
+              "title": "أنواع العضلات",
+              "titleEn": "Muscle Types",
+              "durationSec": 78,
+              "video": "assets/videos/lesson3.mp4"
+            },
+            {
+              "id": "l4",
+              "title": "آلية الانقباض",
+              "titleEn": "Contraction Mechanism",
+              "durationSec": 14,
+              "video": "assets/videos/lesson1.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physiology-101",
+      "title": "أساسيات علم وظائف الأعضاء",
+      "titleEn": "Physiology Fundamentals",
+      "instructor": "د. أحمد",
+      "instructorEn": "Dr. Ahmed",
+      "thumbnail": "assets/images/physiology.png",
+      "sections": [
+        {
+          "id": "p-s1",
+          "title": "الجهاز الدوري",
+          "titleEn": "Circulatory System",
+          "lessons": [
+            {
+              "id": "p-l1",
+              "title": "وظائف القلب",
+              "titleEn": "Heart Functions",
+              "durationSec": 44,
+              "video": "assets/videos/lesson2.mp4"
+            },
+            {
+              "id": "p-l2",
+              "title": "الدورة الدموية",
+              "titleEn": "Blood Circulation",
+              "durationSec": 78,
+              "video": "assets/videos/lesson3.mp4"
+            }
+          ]
+        },
+        {
+          "id": "p-s2",
+          "title": "الجهاز التنفسي",
+          "titleEn": "Respiratory System",
+          "lessons": [
+            {
+              "id": "p-l3",
+              "title": "تبادل الغازات",
+              "titleEn": "Gas Exchange",
+              "durationSec": 14,
+              "video": "assets/videos/lesson1.mp4"
+            },
+            {
+              "id": "p-l4",
+              "title": "ميكانيكا التنفس",
+              "titleEn": "Breathing Mechanics",
+              "durationSec": 44,
+              "video": "assets/videos/lesson2.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
